@@ -1,0 +1,6 @@
+check,spearman_rho,top10_overlap,n
+R1 all IT-category postings (n=999),0.9728302858614474,8,999
+"R2 key skills only, vacancies with skills (n=280)",0.9151740077617689,8,280
+"R2b full text, same vacancies (n=280)",0.9852543545965237,9,280
+"R3 first half (<= 15 Oct, n=212) vs second half (n=212)",0.8913885418734983,8,424
+R4 reposts kept (n=432),0.9983901274591991,9,432

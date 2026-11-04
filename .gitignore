@@ -1,0 +1,7 @@
+﻿data/raw/
+outputs/processed_vacancies.csv
+.venv/
+.env
+__pycache__/
+*.pyc
+.idea/
